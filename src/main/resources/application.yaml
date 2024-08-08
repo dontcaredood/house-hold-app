@@ -1,0 +1,11 @@
+
+
+spring:
+  application.name: HouseHold
+  banner.location: classpath:banner.txt
+  jpa:
+    show-sql: true
+
+management:
+  security:
+    enabled: false
