@@ -2,8 +2,8 @@ package com.household.code.controller;
 
 import com.household.code.entity.Groceries;
 import com.household.code.entity.Toiletries;
-import com.household.code.model.GroceriesResponse;
-import com.household.code.model.ToiletriesResponse;
+import com.household.code.model.products.GroceriesResponse;
+import com.household.code.model.products.ToiletriesResponse;
 import com.household.code.service.GroceriesService;
 import com.household.code.service.ToiletriesService;
 import io.swagger.v3.oas.annotations.Operation;

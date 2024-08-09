@@ -1,4 +1,4 @@
-package com.household.code.model;
+package com.household.code.model.products;
 
 import com.household.code.entity.Toiletries;
 import lombok.Data;

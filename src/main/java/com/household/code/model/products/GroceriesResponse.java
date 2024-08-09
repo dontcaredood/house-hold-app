@@ -1,7 +1,6 @@
-package com.household.code.model;
+package com.household.code.model.products;
 
 import com.household.code.entity.Groceries;
-import lombok.Builder;
 import lombok.Data;
 
 import java.util.List;
